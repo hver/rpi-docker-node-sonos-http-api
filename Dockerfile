@@ -1,4 +1,4 @@
-FROM resin/raspberry-pi-alpine-node
+FROM balenalib/raspberry-pi-alpine-node
 
 WORKDIR /app
 
